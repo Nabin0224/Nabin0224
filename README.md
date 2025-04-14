@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Nabin0224
-- 👀 I’m interested in doing coding
-- 🌱 I’m currently learning MERN.
+💻 Web Developer | ⚙️ MERN Stack | 🚀 Building cool projects | 📚 Lifelong Learner | 🧠 Sharing what I learn along the way
 
 <!---
 Nabin0224/Nabin0224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
